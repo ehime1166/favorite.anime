@@ -14,10 +14,6 @@ header{
   margin: 0 auto;
 }
 
-header p{
-  line-height: 30px;
-}
-
 main img{
   width:500px;
   height: 670px;
@@ -41,8 +37,20 @@ main img{
   margin: 0 auto;
 }
 
-@media(max-width:670px) {
+@media(max-width:670px){
   body{
     width:100%;
   }
+.name{
+  font-size: 30px
+}
+
+body p{
+  font-size: 18px
+}
+body img{
+  width: 100%;
+}
+
+
 }
