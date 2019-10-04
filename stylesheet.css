@@ -45,6 +45,13 @@ main img{
   body{
     width:100%;
   }
+  .name{
+  font-size: 100px
+}
+
+  body p{
+  font-size: 40px
+}
 
 
 }
