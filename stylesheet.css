@@ -1,0 +1,50 @@
+*{
+  background-color: #EEEEEE;
+}
+
+.title {
+  color: #02ccba;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+header{
+  padding-bottom: 150px;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+header p{
+  line-height: 30px;
+}
+
+main img{
+  width:500px;
+  height: 670px;
+}
+
+.content{
+  max-width: 1170px;
+  margin: 0 auto;
+  margin-bottom: 150px;
+  border-bottom: solid 5px #808080;
+}
+
+.name{
+  font-size :50px;
+  background-color: #00FFFF;
+  width: auto;
+}
+
+.ending{
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+@media(max-width:670px) {
+  body{
+    width:100%;
+  }
+
+
+}
